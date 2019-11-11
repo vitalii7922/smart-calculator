@@ -21,6 +21,7 @@ class Main {
                 }
             }
         }
+
         System.out.println(stack.empty());
     }
 }
