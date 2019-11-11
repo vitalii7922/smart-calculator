@@ -1,0 +1,16 @@
+<b>Which brackets are balanced</b> <a class="right" href="https://hyperskill.org/learn/step/2767">Open on Hyperskill</a><br/><br/><html>
+ <head></head>
+ <body>
+  <p>Given a string consisting of brackets, write a program to examine whether the pairs and the orders of "{", "}", "(", ")", "[", "]" are correct (balanced). For example, the program should print <code>true</code> for the string <code>[()]{}{[()()]()}</code> and <code>false</code> for <code>()[]}</code>.</p> 
+  <p>The classic algorithm for solving this problem relies on using a stack.</p> 
+  <ol> 
+   <li>create an instance of a stack;</li> 
+   <li>traverse the input string; 
+    <ol> 
+     <li>if the current character is a starting bracket "(" or "{" or "[" then push it to the stack;</li> 
+     <li>if the current is a closing bracket ")" or "}" or "]" then remove (pop) the top element from the stack; if the popped bracket is the matching starting bracket then fine else parenthesis are not balanced;</li> 
+    </ol> </li> 
+   <li>after completing traversal, if there are some starting brackets left in the stack, then the parenthesis are not balanced.</li> 
+  </ol>
+ </body>
+</html><br><b>Sample Input:</b><br>([][])<br><b>Sample Output:</b><br>true<br><br><b>Sample Input:</b><br>([](){([])})<br><b>Sample Output:</b><br>true<br><br><b>Sample Input:</b><br>{{[()]]<br><b>Sample Output:</b><br>false<br><br><br><font color="gray">Memory limit: 256 Mb</font><br><font color="gray">Time limit: 5s</font><br><br><br/><a href="https://hyperskill.org/learn/step/3576">Show topic summary</a>
