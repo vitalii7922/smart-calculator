@@ -1,6 +1,22 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+
+/*
+Last occurrence index # Comprehension
+
+Implement a method to search the index of the last occurrence of a given value in an input array of int's.
+
+If the value is not found, the method must return -1.
+
+
+Sample Input:
+19 14 17 15 17
+17
+Sample Output:
+4
+*/
+
 public class Main {
 
     public static int searchIndexOfLastOccurrence(int[] numbers, int value) {
