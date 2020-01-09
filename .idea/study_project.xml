@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="VERSION" value="16" />
+      <option name="myUserTests">
+        <map />
+      </option>
+      <option name="course">
+        <HyperskillCourse>
+          <option name="authors">
+            <list />
+          </option>
+          <option name="courseMode" value="Study" />
+          <option name="customPresentableName" />
+          <option name="description" value="Calculators are a great help: everyone is familiar with them. Why not write one yourself, and make it really special? In this project, you will write a calculator that not only adds, subtracts, multiplies, but also is smart enough to remember your previous calculations.&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/42&lt;/a&gt;" />
+          <option name="environment" value="" />
+          <option name="id" value="0" />
+          <option name="index" value="-1" />
+          <option name="language" value="JAVA 11" />
+          <option name="languageCode" value="en" />
+          <option name="name" value="Smart Calculator" />
+          <option name="stages">
+            <list>
+              <HyperskillStage>
+                <option name="id" value="220" />
+                <option name="stepId" value="5316" />
+                <option name="title" value="2+2" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="221" />
+                <option name="stepId" value="5317" />
+                <option name="title" value="2+2+" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="222" />
+                <option name="stepId" value="5318" />
+                <option name="title" value="Count them all" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="223" />
+                <option name="stepId" value="5319" />
+                <option name="title" value="Add subtractions" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="224" />
+                <option name="stepId" value="5320" />
+                <option name="title" value="Error!" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="225" />
+                <option name="stepId" value="5321" />
+                <option name="title" value="Variables" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="226" />
+                <option name="stepId" value="5322" />
+                <option name="title" value="I’ve got the power" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="227" />
+                <option name="stepId" value="5323" />
+                <option name="title" value="Very big" />
+              </HyperskillStage>
+            </list>
+          </option>
+          <option name="taskToTopics">
+            <map>
+              <entry key="0">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="480" />
+                      <option name="theoryId" value="6577" />
+                      <option name="title" value="Command line overview" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="15" />
+                      <option name="theoryId" value="3500" />
+                      <option name="title" value="Introduction to Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="147" />
+                      <option name="theoryId" value="3522" />
+                      <option name="title" value="Basic literals" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="148" />
+                      <option name="theoryId" value="3521" />
+                      <option name="title" value="The first program" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="193" />
+                      <option name="theoryId" value="3749" />
+                      <option name="title" value="Printing data" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="14" />
+                      <option name="theoryId" value="3518" />
+                      <option name="title" value="Types and variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="30" />
+                      <option name="theoryId" value="3520" />
+                      <option name="title" value="Comments" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="112" />
+                      <option name="theoryId" value="3513" />
+                      <option name="title" value="Naming variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="146" />
+                      <option name="theoryId" value="3519" />
+                      <option name="title" value="Arithmetic operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="191" />
+                      <option name="theoryId" value="3739" />
+                      <option name="title" value="Write, compile and run" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="149" />
+                      <option name="theoryId" value="3499" />
+                      <option name="title" value="JVM, JRE and JDK" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="192" />
+                      <option name="theoryId" value="3746" />
+                      <option name="title" value="Running programs on your computer" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="113" />
+                      <option name="theoryId" value="3603" />
+                      <option name="title" value="Scanning the input" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="27" />
+                      <option name="theoryId" value="3565" />
+                      <option name="title" value="Integer types and operations" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="1">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="309" />
+                      <option name="theoryId" value="5035" />
+                      <option name="title" value="Primitive and reference types" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="4" />
+                      <option name="theoryId" value="3511" />
+                      <option name="title" value="Array" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="87" />
+                      <option name="theoryId" value="3516" />
+                      <option name="title" value="Boolean and logical operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="88" />
+                      <option name="theoryId" value="3512" />
+                      <option name="title" value="Relational operators" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="307" />
+                      <option name="theoryId" value="5008" />
+                      <option name="title" value="Increment and decrement" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="31" />
+                      <option name="theoryId" value="3514" />
+                      <option name="title" value="Characters" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="9" />
+                      <option name="theoryId" value="3523" />
+                      <option name="title" value="String" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="25" />
+                      <option name="theoryId" value="3503" />
+                      <option name="title" value="Conditional statement" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="89" />
+                      <option name="theoryId" value="3505" />
+                      <option name="title" value="The for-loop" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="90" />
+                      <option name="theoryId" value="3498" />
+                      <option name="title" value="The while and do-while loops" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="19" />
+                      <option name="theoryId" value="3507" />
+                      <option name="title" value="Branching statements" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="97" />
+                      <option name="theoryId" value="3602" />
+                      <option name="title" value="Iterating over arrays" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="98" />
+                      <option name="theoryId" value="3551" />
+                      <option name="title" value="Processing strings" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="12" />
+                      <option name="theoryId" value="1933" />
+                      <option name="title" value="Multi-dimensional array" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="2">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="502" />
+                      <option name="theoryId" value="6865" />
+                      <option name="title" value="Units of information" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="362" />
+                      <option name="theoryId" value="5544" />
+                      <option name="title" value="Binary numbers" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="161" />
+                      <option name="theoryId" value="3532" />
+                      <option name="title" value="Sizes and ranges" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="32" />
+                      <option name="theoryId" value="3510" />
+                      <option name="title" value="Type casting" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="94" />
+                      <option name="theoryId" value="3590" />
+                      <option name="title" value="Defining methods" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="99" />
+                      <option name="theoryId" value="3594" />
+                      <option name="title" value="Arrays as parameters" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="3">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="117" />
+                      <option name="theoryId" value="3614" />
+                      <option name="title" value="Introduction to OOP" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="259" />
+                      <option name="theoryId" value="3805" />
+                      <option name="title" value="IDE" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="577" />
+                      <option name="theoryId" value="7580" />
+                      <option name="title" value="Regexps basics" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="178" />
+                      <option name="theoryId" value="3670" />
+                      <option name="title" value="Regexps in Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="180" />
+                      <option name="theoryId" value="3674" />
+                      <option name="title" value="Sets, ranges, alternations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="181" />
+                      <option name="theoryId" value="3680" />
+                      <option name="title" value="Shorthands" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="182" />
+                      <option name="theoryId" value="3687" />
+                      <option name="title" value="Quantifiers" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="183" />
+                      <option name="theoryId" value="3696" />
+                      <option name="title" value="Regexes in programs" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="185" />
+                      <option name="theoryId" value="3712" />
+                      <option name="title" value="Patterns and Matcher" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="184" />
+                      <option name="theoryId" value="3708" />
+                      <option name="title" value="Replacing characters" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="115" />
+                      <option name="theoryId" value="3618" />
+                      <option name="title" value="Defining classes" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="96" />
+                      <option name="theoryId" value="4727" />
+                      <option name="title" value="Objects" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="260" />
+                      <option name="theoryId" value="3801" />
+                      <option name="title" value="IntelliJ IDEA" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="387" />
+                      <option name="theoryId" value="5819" />
+                      <option name="title" value="IDEA Basics" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="391" />
+                      <option name="theoryId" value="5839" />
+                      <option name="title" value="EduTools" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="4">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="60" />
+                      <option name="theoryId" value="3497" />
+                      <option name="title" value="What is an exception" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="59" />
+                      <option name="theoryId" value="3570" />
+                      <option name="title" value="Hierarchy of exceptions" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="65" />
+                      <option name="theoryId" value="3552" />
+                      <option name="title" value="Exception handling" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="163" />
+                      <option name="theoryId" value="3536" />
+                      <option name="title" value="Errors in programs" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="7" />
+                      <option name="theoryId" value="3621" />
+                      <option name="title" value="Package" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="17" />
+                      <option name="theoryId" value="3535" />
+                      <option name="title" value="Constructor" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="116" />
+                      <option name="theoryId" value="3495" />
+                      <option name="title" value="Instance methods" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="28" />
+                      <option name="theoryId" value="3589" />
+                      <option name="title" value="Access modifiers" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="24" />
+                      <option name="theoryId" value="3599" />
+                      <option name="title" value="Getters and setters" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="8" />
+                      <option name="theoryId" value="3583" />
+                      <option name="title" value="Inheritance" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="5">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="164" />
+                      <option name="theoryId" value="1945" />
+                      <option name="title" value="NPE" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="167" />
+                      <option name="theoryId" value="3492" />
+                      <option name="title" value="Generic programming" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="43" />
+                      <option name="theoryId" value="3591" />
+                      <option name="title" value="Basics of collections" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="40" />
+                      <option name="theoryId" value="3575" />
+                      <option name="title" value="Set" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="46" />
+                      <option name="theoryId" value="3558" />
+                      <option name="title" value="Map" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="152" />
+                      <option name="theoryId" value="3506" />
+                      <option name="title" value="Ternary operator" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="6" />
+                      <option name="theoryId" value="3595" />
+                      <option name="title" value="Boxing and unboxing" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="6">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="266" />
+                      <option name="theoryId" value="4953" />
+                      <option name="title" value="Computer algorithms" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="263" />
+                      <option name="theoryId" value="4991" />
+                      <option name="title" value="The big O notation" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="267" />
+                      <option name="theoryId" value="5161" />
+                      <option name="title" value="Data structures" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="318" />
+                      <option name="theoryId" value="5252" />
+                      <option name="title" value="Stack" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="343" />
+                      <option name="theoryId" value="5350" />
+                      <option name="title" value="Queue" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="45" />
+                      <option name="theoryId" value="3576" />
+                      <option name="title" value="Queue and Stack" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="7">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="162" />
+                      <option name="theoryId" value="3508" />
+                      <option name="title" value="BigInteger" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="updateDate" value="0" />
+          <option name="hyperskillProject">
+            <HyperskillProject>
+              <option name="description" value="Calculators are a great help: everyone is familiar with them. Why not write one yourself, and make it really special? In this project, you will write a calculator that not only adds, subtracts, multiplies, but also is smart enough to remember your previous calculations." />
+              <option name="id" value="42" />
+              <option name="ideFiles" value="https://stepik.org/media/attachments/lesson/203965/additional_files.json" />
+              <option name="language" value="java" />
+              <option name="templateBased" value="false" />
+              <option name="title" value="Smart Calculator" />
+              <option name="useIde" value="true" />
+            </HyperskillProject>
+          </option>
+          <option name="items">
+            <list>
+              <FrameworkLesson>
+                <option name="currentTaskIndex" value="7" />
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="1" />
+                <option name="name" value="Smart Calculator" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage1" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Write a program that reads two integer numbers from the same line and prints their sum in the standard output. Numbers can be positive, negative, or zero.&lt;/p&gt;&lt;h2&gt;Input/Output example&lt;/h2&gt;&lt;p&gt;The example below shows input and the corresponding output. Your program should work in the same way.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;code class=&quot;no-highlight&quot;&gt;5 8&#10;13&lt;/code&gt;&lt;/pre&gt;Do not add extra characters after the output." />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/42/stages/220/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5316" />
+                      <option name="index" value="1" />
+                      <option name="name" value="2+2" />
+                      <option name="record" value="1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/calculator/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/calculator/Main.java" />
+                                <option name="text" value="package calculator;&#10;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;        // put your code here&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/Test.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Test.java" />
+                                <option name="text" value="import calculator.Main;&#10;import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.CheckResult;&#10;import org.hyperskill.hstest.v6.testcase.TestCase;&#10;&#10;import java.util.List;&#10;import java.util.Objects;&#10;&#10;public class Test extends BaseStageTest&lt;String&gt; {&#10;&#10;    public Test() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    private String solveStage(String input) {&#10;        String[] nums = input.split(&quot;\\s+&quot;);&#10;        int a = Integer.parseInt(nums[0]);&#10;        int b = Integer.parseInt(nums[1]);&#10;        return Objects.toString(a + b);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;String&gt;&gt; generate() {&#10;        List&lt;TestCase&lt;String&gt;&gt; tests = List.of(&#10;            new TestCase&lt;String&gt;().setInput(&quot;0 1&quot;),&#10;            new TestCase&lt;String&gt;().setInput(&quot;1 0&quot;),&#10;            new TestCase&lt;String&gt;().setInput(&quot;2 3&quot;),&#10;            new TestCase&lt;String&gt;().setInput(&quot;100 123&quot;),&#10;            new TestCase&lt;String&gt;().setInput(&quot;-1 5&quot;),&#10;            new TestCase&lt;String&gt;().setInput(&quot;5 -2&quot;),&#10;            new TestCase&lt;String&gt;().setInput(&quot;-300 -400&quot;)&#10;        );&#10;&#10;        for (TestCase&lt;String&gt; test : tests) {&#10;            test.setAttach(solveStage(test.getInput()));&#10;        }&#10;&#10;        return tests;&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, String clue) {&#10;        try {&#10;            int actual = Integer.parseInt(reply.trim());&#10;            int expected = Integer.parseInt(clue.trim());&#10;            return new CheckResult(actual == expected);&#10;        }&#10;        catch (Exception ex) {&#10;            return new CheckResult(false, &quot;Can't check the answer&quot;);&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1570716605000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage2" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&#10;&lt;p&gt;Write a program that reads two numbers in a loop and prints the sum in the standard output. If a user enters only a single number, the program should print the same number. If a user enters an empty line, the program should ignore it.&lt;br&gt;&lt;/p&gt;When the command &lt;code&gt;/exit&lt;/code&gt; is entered, the program must print &lt;code&gt;&quot;Bye!&quot;&lt;/code&gt; (without quotes), and then stop.&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Input/Output example&lt;br&gt;&lt;/h2&gt;&lt;p&gt;The example below shows input and the corresponding output. Your program should work in the same way.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;code class=&quot;no-highlight&quot;&gt;17 9&lt;br&gt;26&lt;br&gt;-2 5&lt;br&gt;3&lt;br&gt;&lt;br&gt;7&lt;br&gt;7&lt;br&gt;/exit&lt;br&gt;Bye!&lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/42/stages/221/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5317" />
+                      <option name="index" value="2" />
+                      <option name="name" value="2+2+" />
+                      <option name="record" value="2" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/Test.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="test/Test.java" />
+                                <option name="text" value="import calculator.Main;&#10;import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.PredefinedIOTestCase;&#10;&#10;import java.util.List;&#10;&#10;public class Test extends BaseStageTest {&#10;&#10;    public Test() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;PredefinedIOTestCase&gt; generate() {&#10;        return List.of(&#10;                new PredefinedIOTestCase(&#10;                        &quot;/exit&quot;,&#10;                        &quot;Bye!&quot;&#10;                ),&#10;                new PredefinedIOTestCase(&#10;                        &quot;17 9\n-2 5\n\n7\n/exit&quot;,&#10;                        &quot;26\n3\n7\nBye!&quot;&#10;                ),&#10;                new PredefinedIOTestCase(&#10;                        &quot;100 200\n500\n300 400\n200\n\n\n-500\n/exit&quot;,&#10;                        &quot;300\n500\n700\n200\n-500\nBye!&quot;&#10;                )&#10;        );&#10;    }&#10;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/calculator/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/calculator/Main.java" />
+                                <option name="text" value="package calculator;&#10;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;        // put your code here&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1570716607000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage3" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&lt;p&gt;At this stage, the program should read an unlimited sequence of numbers from the standard input and calculate their sum. Also, add a &lt;code&gt;/help&lt;/code&gt; command to print some information about the program.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Input/Output example&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The example below shows input and the corresponding output. Your program should work in the same way.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;pre&gt;&lt;code class=&quot;no-highlight&quot;&gt;4 5 -2 3&lt;br&gt;10&lt;br&gt;4 7&lt;br&gt;11&lt;br&gt;6&lt;br&gt;6&lt;br&gt;/help&lt;br&gt;The program calculates the sum of numbers&lt;br&gt;/exit&lt;br&gt;Bye!&lt;/code&gt;&lt;/pre&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/42/stages/222/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5318" />
+                      <option name="index" value="3" />
+                      <option name="name" value="Count them all" />
+                      <option name="record" value="3" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/Test.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Test.java" />
+                                <option name="text" value="import calculator.Main;&#10;import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.PredefinedIOTestCase;&#10;&#10;import java.util.List;&#10;&#10;public class Test extends BaseStageTest {&#10;&#10;    public Test() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;PredefinedIOTestCase&gt; generate() {&#10;        return List.of(&#10;                new PredefinedIOTestCase(&#10;                        &quot;/exit&quot;,&#10;                        &quot;Bye!&quot;&#10;                ),&#10;                new PredefinedIOTestCase(&#10;                        &quot;17 9\n-2 5\n\n7\n/exit&quot;,&#10;                        &quot;26\n3\n7\nBye!&quot;&#10;                ),&#10;                new PredefinedIOTestCase(&#10;                        &quot;100 200\n500\n300 400\n200\n\n\n-500\n/exit&quot;,&#10;                        &quot;300\n500\n700\n200\n-500\nBye!&quot;&#10;                ),&#10;                new PredefinedIOTestCase(&#10;                        &quot;801 199 -300 500\n10 20 30 40 50 -10 -20 -30 -40\n/exit&quot;,&#10;                        &quot;1200\n50\nBye!&quot;&#10;                )&#10;        );&#10;    }&#10;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/calculator/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/calculator/Main.java" />
+                                <option name="text" value="package calculator;&#10;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;        // put your code here&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1570716609000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage4" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;At this stage, your calculator should support the addition &lt;code&gt;+&lt;/code&gt; and subtraction &lt;code&gt;-&lt;/code&gt; operators.&lt;/p&gt;&#10;&#10;&lt;p&gt;The program must calculate expressions like these: &lt;code&gt;4 + 6 - 8&lt;/code&gt;, &lt;code&gt;2 - 3 - 4&lt;/code&gt;, and so on. It must support both unary and binary minus operators. If the user has entered several operators following each other, the program still should work (like Java or Python REPL).&lt;/p&gt;&#10;&#10;&lt;p&gt;Consider that the even number of minuses gives a plus, and the odd number of minuses gives a minus! Look at it this way: &lt;code&gt;2 -- 2&lt;/code&gt; equals &lt;code&gt;2 - (-2)&lt;/code&gt; equals &lt;code&gt;2 + 2&lt;/code&gt;.&lt;/p&gt;&#10;&#10;&lt;p&gt;Modify the result of the &lt;code&gt;/help&lt;/code&gt; command to explain these operations.&lt;/p&gt;&#10;&#10;&lt;p&gt;Decompose your program using methods to make it easy to understand and edit later.&lt;/p&gt;&#10;&#10;&lt;h2&gt;Input/Output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;8&#10;8&#10;&#10;-2 + 4 - 5 + 6&#10;3&#10;9 +++ 10 -- 8&#10;27&#10;3 --- 5&#10;-2&#10;14  -   12&#10;2&#10;/exit&#10;Bye!&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt; &lt;/p&gt;&#10;&#10;&lt;p&gt;The program should not stop until the user enters the &lt;code&gt;/exit&lt;/code&gt; command.&lt;/p&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/42/stages/223/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5319" />
+                      <option name="index" value="4" />
+                      <option name="name" value="Add subtractions" />
+                      <option name="record" value="4" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/Test.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Test.java" />
+                                <option name="text" value="import calculator.Main;&#10;import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.PredefinedIOTestCase;&#10;&#10;import java.util.List;&#10;&#10;public class Test extends BaseStageTest {&#10;&#10;    public Test() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;PredefinedIOTestCase&gt; generate() {&#10;        return List.of(&#10;                new PredefinedIOTestCase(&#10;                        &quot;100 + 200 - 300\n/exit&quot;,&#10;                        &quot;0\nBye!&quot;&#10;                ),&#10;                new PredefinedIOTestCase(&#10;                        &quot;4 + 6 - 8\n2 - 3 - 4\n/exit&quot;,&#10;                        &quot;2\n-5\nBye!&quot;&#10;                ),&#10;                new PredefinedIOTestCase(&#10;                        &quot;8\n\n-2 + 4 - 5 + 6\n9 +++ 10 -- 8\n3 --- 5\n14     -  12\n/exit&quot;,&#10;                        &quot;8\n3\n27\n-2\n2\nBye!&quot;&#10;                )&#10;        );&#10;    }&#10;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/calculator/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/calculator/Main.java" />
+                                <option name="text" value="package calculator;&#10;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;        // put your code here&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1570716611000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage5" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;br&gt;&lt;/h2&gt;&lt;p&gt;Modify your program to handle different cases when the given expression has an invalid format. The program should print &lt;code&gt;&quot;Invalid expression&quot;&lt;/code&gt; in such cases. The program must never throw the &lt;code&gt;NumberFormatException&lt;/code&gt; or any other exception.&lt;br&gt;&lt;br&gt;If a user enters an invalid command, the program must print &lt;code&gt;&quot;Unknown command&quot;&lt;/code&gt;.&lt;br&gt;&lt;br&gt;All messages must be printed without quotes.&lt;br&gt;&lt;br&gt;Do not forget to write methods to decompose your program.&lt;br&gt;&lt;/p&gt;&lt;h2&gt;Input/Output example&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;code class=&quot;no-highlight&quot;&gt;8 + 7 - 4&lt;br&gt;11&lt;br&gt;abc&lt;br&gt;Invalid expression&lt;br&gt;123+&lt;br&gt;Invalid expression&lt;br&gt;+15&lt;br&gt;15&lt;br&gt;18 22&lt;br&gt;Invalid expression&lt;br&gt;&lt;br&gt;-22&lt;br&gt;-22&lt;br&gt;22-&lt;br&gt;Invalid expression&lt;br&gt;/go&lt;br&gt;Unknown command&lt;br&gt;/exit&lt;br&gt;Bye!&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The program should not stop until the user enters the &lt;code&gt;/exit&lt;/code&gt; command (like before).&lt;br&gt;&lt;/p&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/42/stages/224/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5320" />
+                      <option name="index" value="5" />
+                      <option name="name" value="Error!" />
+                      <option name="record" value="5" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/Test.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Test.java" />
+                                <option name="text" value="import calculator.Main;&#10;import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.PredefinedIOTestCase;&#10;&#10;import java.util.List;&#10;&#10;public class Test extends BaseStageTest {&#10;&#10;    public Test() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;PredefinedIOTestCase&gt; generate() {&#10;        return List.of(&#10;                new PredefinedIOTestCase(&#10;                        &quot;100 + 200 - 300\n/exit&quot;,&#10;                        &quot;0\nBye!&quot;&#10;                ),&#10;                new PredefinedIOTestCase(&#10;                        &quot;4 + 6 - 8\n\n\n2 - 3 - 4\n\n8 + 7 - 4\n/exit&quot;,&#10;                        &quot;2\n-5\n11\nBye!&quot;&#10;                ),&#10;                new PredefinedIOTestCase(&#10;                        &quot;abc\n123+\n+15\n18 22\n\n-22\n22-\n/exit&quot;,&#10;                        &quot;Invalid expression\n&quot; +&#10;                                &quot;Invalid expression\n&quot; +&#10;                                &quot;15\n&quot; +&#10;                                &quot;Invalid expression\n&quot; +&#10;                                &quot;-22\n&quot; +&#10;                                &quot;Invalid expression\n&quot; +&#10;                                &quot;Bye!&quot;&#10;                ),&#10;                new PredefinedIOTestCase(&#10;                        &quot;/go\n/exit&quot;,&#10;                        &quot;Unknown command\nBye!&quot;&#10;                )&#10;        );&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/calculator/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/calculator/Main.java" />
+                                <option name="text" value="package calculator;&#10;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;        // put your code here&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1570716613000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage6" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;br&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;At this stage, your program should support variables. We suppose that the name of a variable (identifier) can contain only Latin letters. The case is also important; for example, &lt;b&gt;n&lt;/b&gt; is not the same as &lt;b&gt;N&lt;/b&gt;. The value can be an integer number or a value of another variable.&lt;/p&gt;Use &lt;code&gt;Map&lt;/code&gt; to support variables.&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The assignment statement may look like the following:&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;code&gt;n = 3&#10;m=4&#10;a  =   5&#10;b = a&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;A variable can have a name consisting of more than one letter.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;code&gt;count = 10&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;To print the value of a variable you should just type its name.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;code&gt;N = 5&#10;N&#10;5&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;It should be possible to set a new value to an existing variable.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;code&gt;a = 1&lt;br&gt;a = 2&lt;br&gt;a = 3&#10;a&#10;3&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;If an identifier or value of a variable is invalid, the program must print a message like the one below.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;code&gt;a1 = 8&lt;br&gt;Invalid identifier&lt;br&gt;n = a2a&lt;br&gt;Invalid assignment&lt;br&gt;a = 7 = 8&lt;br&gt;Invalid assignment&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;If a variable is not declared yet, the program should print &lt;code&gt;&quot;Unknown variable&quot;&lt;/code&gt;.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;code&gt;a = 8&lt;br&gt;b = c&lt;br&gt;Unknown variable&#10;e&#10;Unknown variable&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Handle as many incorrect inputs as possible. The program must never throw the &lt;code&gt;NumberFormatException&lt;/code&gt; or any other exception.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;It is important to note, all variables must store their values between calculations of different expressions.&lt;div&gt;&lt;br&gt;&lt;h2&gt;Input/Output example&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;code class=&quot;no-highlight&quot;&gt;a = 3&lt;br&gt;b = 4&lt;br&gt;c = 5&lt;br&gt;a + b - c&lt;br&gt;2&lt;br&gt;b - c + 4 - a&lt;br&gt;0&lt;br&gt;a = 800&lt;br&gt;a + b + c&lt;br&gt;809&#10;BIG = 9000&#10;BIG&#10;9000&#10;big&#10;Unknown variable&#10;/exit&#10;Bye!&#10;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The program should not stop until the user enters the &lt;code&gt;/exit&lt;/code&gt; command.&lt;/p&gt;&lt;/div&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/42/stages/225/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5321" />
+                      <option name="index" value="6" />
+                      <option name="name" value="Variables" />
+                      <option name="record" value="6" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/Test.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="test/Test.java" />
+                                <option name="text" value="import calculator.Main;&#10;import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.PredefinedIOTestCase;&#10;&#10;import java.util.List;&#10;&#10;public class Test extends BaseStageTest {&#10;&#10;    public Test() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;PredefinedIOTestCase&gt; generate() {&#10;        return List.of(&#10;                /* Check simple additions and subtractions */&#10;                new PredefinedIOTestCase(&#10;                        &quot;4 + 6 - 8\n\n\n2 - 3 - 4\n\n8 + 7 - 4\n/exit&quot;,&#10;                        &quot;2\n-5\n11\nBye!&quot;&#10;                ),&#10;                /* Check handling unknown commands */&#10;                new PredefinedIOTestCase(&#10;                        &quot;/command\n/exit&quot;,&#10;                        &quot;Unknown command\nBye!&quot;&#10;                ),&#10;                /* Check different assignments */&#10;                new PredefinedIOTestCase(&#10;                        &quot;n = 3\nm=4\na =   5\nb = a\nn\nm\na\nb\ncount = 10\ncount\n/exit&quot;,&#10;                        &quot;3\n4\n5\n5\n10\nBye!&quot;&#10;                ),&#10;                /* Check expressions with variables */&#10;                new PredefinedIOTestCase(&#10;                        &quot;a = 3\nb = 4\nc = 5\na + b - c\nb - c + 4 - a\na = 800\na + b + c\n/exit&quot;,&#10;                        &quot;2\n0\n809\nBye!&quot;&#10;                ),&#10;                /* Check reassignment */&#10;                new PredefinedIOTestCase(&#10;                        &quot;a = 1\na = 2\na = 3\na\n/exit&quot;,&#10;                        &quot;3\nBye!&quot;&#10;                ),&#10;                /* Check handling unknown variables */&#10;                new PredefinedIOTestCase(&#10;                        &quot;q\nr\nq = 10\nr = 20\nq\nr\nR\n/exit&quot;,&#10;                        &quot;Unknown variable\n&quot; +&#10;                                &quot;Unknown variable\n&quot; +&#10;                                &quot;10\n20\n&quot; +&#10;                                &quot;Unknown variable\n&quot; +&#10;                                &quot;Bye!&quot;&#10;                ),&#10;                /* Check handling incorrect assignments */&#10;                new PredefinedIOTestCase(&#10;                        &quot;a1 = 8\nn = a2a\na = 7 = 8\nnum = 10\n/exit&quot;,&#10;                        &quot;Invalid identifier\n&quot; +&#10;                                &quot;Invalid assignment\n&quot; +&#10;                                &quot;Invalid assignment\n&quot; +&#10;                                &quot;Bye!&quot;&#10;                )&#10;        );&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/calculator/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/calculator/Main.java" />
+                                <option name="text" value="package calculator;&#10;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;        // put your code here&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1570716615000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage7" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;At this stage, your program should support for multiplication &lt;code&gt;*&lt;/code&gt;, integer division &lt;code&gt;/&lt;/code&gt; and parentheses &lt;code&gt;(...)&lt;/code&gt;. They have a higher priority than addition &lt;code&gt;+&lt;/code&gt; and subtraction &lt;code&gt;-&lt;/code&gt;. Do not forget about variables; they, and the unary minus operator, should still work. Modify the result of the &lt;code&gt;/help&lt;/code&gt; command to explain all possible operators.&lt;/p&gt;&#10;&#10;&lt;p&gt;Here is an example of an expression that contains all possible operations:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;3 + 8 * ((4 + 3) * 2 + 1) - 6 / (2 + 1)&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;The result is 121.&lt;/p&gt;&#10;&#10;&lt;p&gt;A general expression can contain many parentheses and operations with different priorities. It is difficult to calculate such expressions if you do not use special methods. Fortunately, there is a fairly effective and universal solution, using a stack, to calculate the most general expressions.&lt;/p&gt;&#10;&#10;&lt;h2&gt;From infix to postfix&lt;/h2&gt;&#10;&#10;&lt;p&gt;Earlier we processed expressions written in infix notation. This notation is not very convenient if an expression has operations with different priorities, especially when brackets are used. But we can use &lt;strong&gt;postfix notation&lt;/strong&gt;, also known as reverse &lt;strong&gt;Polish notation (RPN)&lt;/strong&gt;. In this notation, operators follow their operands. See several examples below.&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Infix notation 1:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;3 + 2 * 4&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Postfix notation 1:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;3 2 4 * +&#10;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Infix notation 2:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;2 * (3 + 4) + 1&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Postfix notation 2:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;2 3 4 + * 1 +&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;To better understand the postfix notation, you can &lt;a href=&quot;https://www.mathblog.dk/tools/infix-postfix-converter/&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;play with a converter here&lt;/a&gt;.&lt;/p&gt;&#10;&#10;&lt;p&gt;As you can see, in postfix notation operations are arranged according to their priority and parentheses are not used at all. So, it is easier to calculate expressions written in postfix notation.&lt;/p&gt;&#10;&#10;&lt;p&gt;You can use a stack (&lt;strong&gt;LIFO&lt;/strong&gt;) to convert an expression from infix to postfix notation. The stack is used to store operators for reordering. Here are some rules that describe how to create an algorithm that converts an expression from infix to postfix notation.&lt;/p&gt;&#10;&#10;&lt;ol&gt;&#10;&#9;&lt;li&gt;Add operands (numbers and variables) to the result (postfix notation) as they arrive.&lt;/li&gt;&#10;&#9;&lt;li&gt;If the stack is empty or contains a left parenthesis on top, push the incoming operator on the stack.&lt;/li&gt;&#10;&#9;&lt;li&gt;If the incoming operator has higher precedence than the top of the stack, push it on the stack.&lt;/li&gt;&#10;&#9;&lt;li&gt;If the incoming operator has lower or equal precedence than or to the top of the stack, pop the stack and add operators to the result until you see an operator that has a smaller precedence or a left parenthesis on the top of the stack; then add the incoming operator to the stack.&lt;/li&gt;&#10;&#9;&lt;li&gt;If the incoming element is a left parenthesis, push it on the stack.&lt;/li&gt;&#10;&#9;&lt;li&gt;If the incoming element is a right parenthesis, pop the stack and add operators to the result until you see a left parenthesis. Discard the pair of parentheses.&lt;/li&gt;&#10;&#9;&lt;li&gt;At the end of the expression, pop the stack and add all operators to the result.&lt;/li&gt;&#10;&lt;/ol&gt;&#10;&#10;&lt;p&gt;No parentheses should remain on the stack. Otherwise, the expression has unbalanced brackets. It is a syntax error.&lt;/p&gt;&#10;&#10;&lt;h2&gt;Calculating the result&lt;/h2&gt;&#10;&#10;&lt;p&gt;When we have an expression in postfix notation, we can calculate it using another stack. To do that, scan the postfix expression from left to right:&lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;&#9;&lt;li&gt;&#10;&#9;&lt;p&gt;If the incoming element is a number, push it into the stack (the whole number, not a single digit!).&lt;/p&gt;&#10;&#9;&lt;/li&gt;&#10;&#9;&lt;li&gt;If the incoming element is the name of a variable, push its value into the stack.&lt;/li&gt;&#10;&#9;&lt;li&gt;&#10;&#9;&lt;p&gt;If the incoming element is an operator, then pop twice to get two numbers and perform the operation; push the result on the stack.&lt;/p&gt;&#10;&#9;&lt;/li&gt;&#10;&#9;&lt;li&gt;&#10;&#9;&lt;p&gt;When the expression ends, the number on the top of the stack is a final result.&lt;/p&gt;&#10;&#9;&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;Here you can find &lt;a href=&quot;http://www.cs.nthu.edu.tw/~wkhon/ds/ds10/tutorial/tutorial2.pdf&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;an example and additional explanations on postfix expressions&lt;/a&gt;.&lt;/p&gt;&#10;&#10;&lt;h2&gt;Input/Output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;8 * 3 + 12 * (4 - 2)&#10;48&#10;2 - 2 + 3&#10;3&#10;4 * (2 + 3&#10;Invalid expression&#10;-10&#10;-10&#10;a=4&#10;b=5&#10;c=6&#10;a*2+b*3+c*(2+3)&#10;53&#10;1 +++ 2 * 3 -- 4&#10;11&#10;3 *** 5&#10;Invalid expression&#10;4+3)&#10;Invalid expression&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;The program should not stop until the user enters the &lt;code&gt;/exit&lt;/code&gt; command.&lt;/p&gt;&#10;&#10;&lt;p&gt;Note that a sequence of &lt;code&gt;+&lt;/code&gt; (like &lt;code&gt;+++&lt;/code&gt; or &lt;code&gt;+++++&lt;/code&gt;) is an admissible operator that should be interpreted as a single plus. A sequence of &lt;code&gt;-&lt;/code&gt; (like &lt;code&gt;--&lt;/code&gt; or &lt;code&gt;--&lt;/code&gt;-) is also an admissible operator and its meaning depends on the length. If a user enters a sequence of &lt;code&gt;*&lt;/code&gt; or &lt;code&gt;/&lt;/code&gt;, the program must print a message that the expression is invalid.&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;As a bonus, &lt;/strong&gt;you may add the power operator &lt;code&gt;^&lt;/code&gt; that has higher priority than &lt;code&gt;*&lt;/code&gt; and &lt;code&gt;/&lt;/code&gt;.&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;2^2&#10;4&#10;2*2^3&#10;16&lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/42/stages/226/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5322" />
+                      <option name="index" value="7" />
+                      <option name="name" value="I’ve got the power" />
+                      <option name="record" value="5" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/Test.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Test.java" />
+                                <option name="text" value="import calculator.Main;&#10;import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.PredefinedIOTestCase;&#10;&#10;import java.util.List;&#10;&#10;public class Test extends BaseStageTest {&#10;&#10;    public Test() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;PredefinedIOTestCase&gt; generate() {&#10;        return List.of(&#10;                /* Check simple additions and subtractions */&#10;                new PredefinedIOTestCase(&#10;                        &quot;4 + 6 - 8\n\n\n2 - 3 - 4\n\n8 + 7 - 4\n1 +++ 2 * 3 -- 4\n/exit&quot;,&#10;                        &quot;2\n-5\n11\n11\nBye!&quot;&#10;                ),&#10;                /* Check handling unknown commands */&#10;                new PredefinedIOTestCase(&#10;                        &quot;/command\n/exit&quot;,&#10;                        &quot;Unknown command\nBye!&quot;&#10;                ),&#10;                /* Check all operations */&#10;                new PredefinedIOTestCase(&#10;                        &quot;3 + 8 * ((4 + 3) * 2 + 1) - 6 / (2 + 1)\n/exit&quot;,&#10;                        &quot;121\nBye!&quot;&#10;                ),&#10;                /* Check with an invalid expressions */&#10;                new PredefinedIOTestCase(&#10;                        &quot;8 * 3 + 12 * (4 - 2)\n4 * (2 + 3\n4 + 3)\n/exit&quot;,&#10;                        &quot;48\nInvalid expression\nInvalid expression\nBye!&quot;&#10;                ),&#10;                /* Check expressions with variables */&#10;                new PredefinedIOTestCase(&#10;                        &quot;a = 4\nb = 5\nc = 6\na*2+b*3+c*(2+3)\n/exit&quot;,&#10;                        &quot;53\nBye!&quot;&#10;                ),&#10;                /* Check reassignment */&#10;                new PredefinedIOTestCase(&#10;                        &quot;a = 1\na = 2\na = 3\na\n/exit&quot;,&#10;                        &quot;3\nBye!&quot;&#10;                )&#10;        );&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/calculator/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/calculator/Main.java" />
+                                <option name="text" value="package calculator;&#10;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;        // put your code here&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1570716616000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage8" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&lt;div&gt;At this stage, your program must support arithmetic operations (&lt;code&gt;+&lt;/code&gt;, &lt;code&gt;-&lt;/code&gt;, &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;/&lt;/code&gt;) with very large numbers as well as parentheses to change the priority within an expression.&lt;/div&gt;&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;There are two ways to solve it. As an easy way, you may use the standard class for working with large numbers, just correctly apply it to your solution. If you want to practice algorithms, you may develop your own class for large numbers and implement algorithms for the listed arithmetic operations.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;h2&gt;Input/Output example&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;code class=&quot;no-highlight&quot;&gt;112234567890 + 112234567890 * (10000000999 - 999)&#10;1122345679012234567890&#10;a = 800000000000000000000000&#10;b = 100000000000000000000000&#10;a + b&#10;900000000000000000000000&#10;/exit&#10;Bye!&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The program should not stop until the user enters the &lt;code&gt;/exit&lt;/code&gt; command.&lt;/p&gt;&lt;/div&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/42/stages/227/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5323" />
+                      <option name="index" value="8" />
+                      <option name="name" value="Very big" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/Test.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Test.java" />
+                                <option name="text" value="import calculator.Main;&#10;import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.PredefinedIOTestCase;&#10;&#10;import java.util.List;&#10;&#10;public class Test extends BaseStageTest {&#10;&#10;    public Test() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;PredefinedIOTestCase&gt; generate() {&#10;        return List.of(&#10;                /* Check expressions with variables */&#10;                new PredefinedIOTestCase(&#10;                        &quot;a = 4\nb = 5\nc = 6\na*2+b*3+c*(2+3)\n/exit&quot;,&#10;                        &quot;53\nBye!&quot;&#10;                ),&#10;                /* Check reassignment */&#10;                new PredefinedIOTestCase(&#10;                        &quot;a = 1\na = 2\na = 3\na\n/exit&quot;,&#10;                        &quot;3\nBye!&quot;&#10;                ),&#10;                /* Check handling unknown commands */&#10;                new PredefinedIOTestCase(&#10;                        &quot;/command\n/exit&quot;,&#10;                        &quot;Unknown command\nBye!&quot;&#10;                ),&#10;                /* Check all operations */&#10;                new PredefinedIOTestCase(&#10;                        &quot;3 + 8 * ((4 + 3) * 2 + 1) - 6 / (2 + 1)\n/exit&quot;,&#10;                        &quot;121\nBye!&quot;&#10;                ),&#10;                /* Check with an invalid expressions */&#10;                new PredefinedIOTestCase(&#10;                        &quot;8 * 3 + 12 * (4 - 2)\n4 * (2 + 3\n4 + 3)\n/exit&quot;,&#10;                        &quot;48\nInvalid expression\nInvalid expression\nBye!&quot;&#10;                ),&#10;                /* Check expressions with large numbers */&#10;                new PredefinedIOTestCase(&#10;                        &quot;112234567890 + 112234567890 * (10000000999 - 999)\n/exit&quot;,&#10;                        &quot;1122345679012234567890\nBye!&quot;&#10;                ),&#10;                /* Check expressions with large numbers and variables */&#10;                new PredefinedIOTestCase(&#10;                        &quot;a = 800000000000000000000000\nb = 100000000000000000000000\na + b\n/exit&quot;,&#10;                        &quot;900000000000000000000000\nBye!&quot;&#10;                ),&#10;                /* Check reassignment with large numbers */&#10;                new PredefinedIOTestCase(&#10;                        &quot;n = 3\nn = 500000000000\nn = 20000000000000000000000\nn\n/exit&quot;,&#10;                        &quot;20000000000000000000000\nBye!&quot;&#10;                )&#10;        );&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/calculator/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/calculator/Main.java" />
+                                <option name="text" value="package calculator;&#10;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;        // put your code here&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1570716618000" />
+                    </EduTask>
+                  </list>
+                </option>
+              </FrameworkLesson>
+              <Lesson>
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="2" />
+                <option name="name" value="Problems" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Swaps&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/6017&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;Numbers from 1 to n are added to min-heap in a certain order. For each number find out how many times it changed its position in the min-heap. Presume that you use the code that was given in the first part of the lesson.&lt;/p&gt; &#10;  &lt;p&gt;&lt;strong&gt;Clarification:&lt;/strong&gt; for addition use method &lt;code&gt;Insert()&lt;/code&gt;, add nodes in the same order as they are in the input.&lt;/p&gt; &#10;  &lt;p&gt;&lt;strong&gt;Input: &lt;/strong&gt;In the first line is the number n. In the second line, divided by spaces, are n numbers from 1 to n.&lt;/p&gt; &#10;  &lt;p&gt;&lt;strong&gt;Output:&lt;/strong&gt; n numbers divided by spaces: i-th number indicates the number of position changes of the number i in the constructed min-heap.&lt;/p&gt; &#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;5&lt;br&gt;5 4 3 2 1&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;2 3 3 2 2&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/6012&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/6017" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="6017" />
+                      <option name="index" value="1" />
+                      <option name="name" value="Swaps" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Failed" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Main {&#10;    public static void main(String[] args) {&#10;        // put your code here&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Which brackets are balanced&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2767&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;Given a string consisting of brackets, write a program to examine whether the pairs and the orders of &quot;{&quot;, &quot;}&quot;, &quot;(&quot;, &quot;)&quot;, &quot;[&quot;, &quot;]&quot; are correct (balanced). For example, the program should print &lt;code&gt;true&lt;/code&gt; for the string &lt;code&gt;[()]{}{[()()]()}&lt;/code&gt; and &lt;code&gt;false&lt;/code&gt; for &lt;code&gt;()[]}&lt;/code&gt;.&lt;/p&gt; &#10;  &lt;p&gt;The classic algorithm for solving this problem relies on using a stack.&lt;/p&gt; &#10;  &lt;ol&gt; &#10;   &lt;li&gt;create an instance of a stack;&lt;/li&gt; &#10;   &lt;li&gt;traverse the input string; &#10;    &lt;ol&gt; &#10;     &lt;li&gt;if the current character is a starting bracket &quot;(&quot; or &quot;{&quot; or &quot;[&quot; then push it to the stack;&lt;/li&gt; &#10;     &lt;li&gt;if the current is a closing bracket &quot;)&quot; or &quot;}&quot; or &quot;]&quot; then remove (pop) the top element from the stack; if the popped bracket is the matching starting bracket then fine else parenthesis are not balanced;&lt;/li&gt; &#10;    &lt;/ol&gt; &lt;/li&gt; &#10;   &lt;li&gt;after completing traversal, if there are some starting brackets left in the stack, then the parenthesis are not balanced.&lt;/li&gt; &#10;  &lt;/ol&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;([][])&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;true&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;([](){([])})&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;true&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;{{[()]]&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;false&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3576&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2767" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2767" />
+                      <option name="index" value="2" />
+                      <option name="name" value="Which brackets are balanced" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Main {&#10;    public static void main(String[] args) {&#10;        // put your code here&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Bad words detecting&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2422&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;&lt;span&gt;Create a stream that will detect bad words in a text according to a bad words list. All words in the text are divided by whitespaces (always only one whitespace between two words).&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&#10;  &lt;p&gt;After calling &lt;b&gt;collect(Collectors.toList())&lt;/b&gt; the stream must return the list of bad words which were found in the text.&lt;b&gt; &lt;/b&gt;&lt;b&gt;The result should be dictionary ordered (in lexicographical order, i.e. sorted)&lt;/b&gt; &lt;b&gt;and&lt;/b&gt; &lt;b&gt;bad words shouldn't repeat.&lt;/b&gt;&lt;/p&gt;&#10;  &lt;p&gt;&lt;b&gt;Important.&lt;/b&gt; You need return a prepared stream from the template method, not a list of bad words. Pay attention to the method template. Do not change it!&lt;br&gt;&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3578&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2422" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2422" />
+                      <option name="index" value="3" />
+                      <option name="name" value="Bad words detecting" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="public static Stream&lt;String&gt; createBadWordsDetectingStream(String text, List&lt;String&gt; badWords) {&#10;    return // write your stream here&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;The index of the last occurrence&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/3099&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;h2&gt;Last occurrence&amp;nbsp;index # Comprehension&lt;/h2&gt; &#10;  &lt;p&gt;Implement a method to search the index of the last occurrence of a given value in an input array of int's.&lt;/p&gt; &#10;  &lt;p&gt;If the value is not found, the method must return &lt;code&gt;-1&lt;/code&gt;.&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;19 14 17 15 17&lt;br&gt;17&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;4&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3541&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/3099" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="3099" />
+                      <option name="index" value="4" />
+                      <option name="name" value="The index of the last occurrence" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="import java.util.Arrays;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;&#10;    public static int searchIndexOfLastOccurrence(int[] numbers, int value) {&#10;        // write your code here&#10;    }&#10;&#10;    /* Do not change code below */&#10;    @SuppressWarnings(&quot;Duplicates&quot;)&#10;    public static void main(String[] args) {&#10;        final Scanner scanner = new Scanner(System.in);&#10;        final int[] numbers;&#10;        final int k;&#10;        if (scanner.hasNextInt()) {&#10;            numbers = Arrays.stream(scanner.nextLine().split(&quot;\\s+&quot;))&#10;                    .mapToInt(Integer::parseInt)&#10;                    .toArray();&#10;            k = Integer.parseInt(scanner.nextLine());&#10;        } else {&#10;            numbers = new int[0];&#10;            k = 10;&#10;        }&#10;        System.out.println(searchIndexOfLastOccurrence(numbers, k));&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;The first occurrence in the subarray&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/3100&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;h2&gt;The first occurrence in subarray # Comprehension&lt;/h2&gt; &#10;  &lt;p&gt;Implement a method to search the index of the first occurrence of a given value in a range of indexes in a given array. The start index should be inclusive and the end index&amp;nbsp;exclusive. If they are equal, suppose the element is not found.&lt;/p&gt; &#10;  &lt;p&gt;If the value is not found, the method must return &lt;code&gt;-1&lt;/code&gt;.&lt;/p&gt; &#10;  &lt;p&gt;It's guaranteed that&amp;nbsp;&lt;code&gt;startIndex &amp;lt;= endIndex&lt;/code&gt; and the array are&amp;nbsp;not empty.&lt;/p&gt; &#10;  &lt;p&gt;In the test samples below, the first line represents an array of int's, the second line contains start and end indexes, and the third line has an element to search in the array.&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;19 14 17 15 17&lt;br&gt;2 5&lt;br&gt;17&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;2&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;19 14 17 15 17&lt;br&gt;0 2&lt;br&gt;17&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;-1&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3541&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/3100" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="3100" />
+                      <option name="index" value="5" />
+                      <option name="name" value="The first occurrence in the subarray" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="import java.util.Arrays;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;&#10;    public static int searchInSubArray(int[] numbers, int startIndex, int endIndex, int value) {&#10;        // write your code here&#10;    }&#10;&#10;    /* Do not change code below */&#10;    public static void main(String[] args) {&#10;        final Scanner scanner = new Scanner(System.in);&#10;        final int[] numbers = Arrays.stream(scanner.nextLine().split(&quot;\\s+&quot;))&#10;                .mapToInt(Integer::parseInt)&#10;                .toArray();&#10;        final String[] parts = scanner.nextLine().split(&quot;\\s+&quot;);&#10;        final int startIndex = Integer.parseInt(parts[0]);&#10;        final int endIndex = Integer.parseInt(parts[1]);&#10;        final int k = Integer.parseInt(scanner.nextLine());&#10;        System.out.println(searchInSubArray(numbers, startIndex, endIndex, k));&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                  </list>
+                </option>
+              </Lesson>
+            </list>
+          </option>
+        </HyperskillCourse>
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>

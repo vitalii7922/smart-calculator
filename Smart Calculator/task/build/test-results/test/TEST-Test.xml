@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-15T16:43:07" hostname="DESKTOP-H0T0QGB" time="0.328">
+  <properties/>
+  <testcase name="start" classname="Test" time="0.328"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+>4 + 6 - 8
+2
+>
+>
+>2 - 3 - 4
+-5
+>
+>8 + 7 - 4
+11
+>1 +++ 2 * 3 -- 4
+11
+>/exit
+Bye!
+?[1;31m
+Start test 2?[0m
+>/command
+Unknown command
+>/exit
+Bye!
+?[1;31m
+Start test 3?[0m
+>3 + 8 * ((4 + 3) * 2 + 1) - 6 / (2 + 1)
+121
+>/exit
+Bye!
+?[1;31m
+Start test 4?[0m
+>8 * 3 + 12 * (4 - 2)
+48
+>4 * (2 + 3
+Invalid expression
+>4 + 3)
+Invalid expression
+>/exit
+Bye!
+?[1;31m
+Start test 5?[0m
+>a = 4
+>b = 5
+>c = 6
+>a*2+b*3+c*(2+3)
+53
+>/exit
+Bye!
+?[1;31m
+Start test 6?[0m
+>a = 1
+>a = 2
+>a = 3
+>a
+3
+>/exit
+Bye!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Bad_words_detecting_main" target="11" />
+      <module name="Problems-Bad_words_detecting_test" target="11" />
+      <module name="Problems-Swaps_main" target="11" />
+      <module name="Problems-Swaps_test" target="11" />
+      <module name="Problems-The_first_occurrence_in_the_subarray_main" target="11" />
+      <module name="Problems-The_first_occurrence_in_the_subarray_test" target="11" />
+      <module name="Problems-The_index_of_the_last_occurrence_main" target="11" />
+      <module name="Problems-The_index_of_the_last_occurrence_test" target="11" />
+      <module name="Problems-Which_brackets_are_balanced_main" target="11" />
+      <module name="Problems-Which_brackets_are_balanced_test" target="11" />
+      <module name="Smart_Calculator-task_main" target="11" />
+      <module name="Smart_Calculator-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
