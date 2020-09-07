@@ -1,6 +1,6 @@
 # Smart-calculator
-This application releases Polish notation(RPN). A user can apply variables to calculate the expressions.
-To release the application were used data structures such as array, stack, queue.
+This application implements Polish notation(RPN). A user can apply variables to calculate the expressions.
+To implement the application were used data structures such as array, stack, queue.
 
 Examples of expressions:
 
